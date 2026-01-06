@@ -15,3 +15,5 @@ MANIFEST
 .*
 !.readthedocs.yaml
 !.gitignore
+
+.pybuild/
