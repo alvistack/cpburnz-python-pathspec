@@ -1,0 +1,4 @@
+python3-pathspec: copyright-without-copyright-notice
+python3-pathspec: initial-upload-closes-no-bugs
+python3-pathspec: no-manual-page
+python3-pathspec: zero-byte-file-in-doc-directory
