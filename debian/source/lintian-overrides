@@ -1,0 +1,4 @@
+python-pathspec source: file-without-copyright-information
+python-pathspec source: no-debian-changes
+python-pathspec source: source-contains-prebuilt-windows-binary
+python-pathspec source: source-package-encodes-python-version
